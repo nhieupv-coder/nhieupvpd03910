@@ -12,7 +12,7 @@
 
 - 🔭 I like study code
 - 🌱 I’m a java software developer
-- 💬 I know about **MYSQL** **Shell Script** **Java Spring** **Java ** **Angular**
+- 💬 I know about **MYSQL** **Shell Script** **Java Spring** **Java** **Angular**
 - 📫 Contact me: phamvannhieu1144@gmail.com
 - 😄 I'm Single
 
@@ -37,8 +37,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aliashfak178">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliashfak178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliashfak178&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nhieupvpd03910">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhieupvpd03910&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhieupvpd03910&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
