@@ -12,7 +12,7 @@
 
 - 🔭 I like study code
 - 🌱 I’m a java software developer
-- 💬 I know about **MYSQL** **Shell Script** **Java Spring** **Java** **Angular**
+- 💬 I know about **MySQL** **Shell Script** **Java Spring** **Java** **Angular** **PostgreSQL**
 - 📫 Contact me: phamvannhieu1144@gmail.com
 - 😄 I'm Single
 
@@ -22,6 +22,8 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://angular.io/tutorial" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.tutorialspoint.com/postgresql/index.htm" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
 </p>
   <p align="center"> 
   <b>Visitor count</b><br>
